@@ -25,8 +25,8 @@ Welcome to **Biz-Fun**! This innovative project seamlessly combines business sol
 
 ## 🛠️ Technologies Used
 - **Frontend**: HTML5, CSS3, JavaScript
-- **Frameworks/Libraries**: [Add any frameworks or libraries used, e.g., React, Vue.js]
-- **Tools**: [List any other relevant tools or technologies]
+- **Frameworks/Libraries**: JavaScript
+
 
 ## 📦 Installation
 To set up **Biz-Fun** locally, please follow these instructions:
